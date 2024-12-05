@@ -1,4 +1,9 @@
 # Pedro Victor de Camargo Nascente
 
-- 🔭 Trabalhando na area de TI desde 2012
-** Desenvolvedor C# | VB | .NET | ASP.CLASSIC | JS | ANGULAR | SQL SERVER | ORACLE **
+** Trabalhando diretamente com.: **
+
+- C# / VB
+- .NET / ASP Classic
+- JS / ANGULAR
+- SQL SERVER / ORACLE
+- MS SERVER / IIS
